@@ -7,7 +7,7 @@
   <img src="./assets/cyber-profile-logo.svg" width="104" alt="Minimal cybersecurity shield logo" />
 </p>
 
-<h1 align="center">Hi, I'm serjoose 👋</h1>
+<h1 align="center">Welcome to Serjoose's GitHub Page</h1>
 
 <p align="center">
   <strong>Cybersecurity Analyst · SOC & Network Security · Red / Blue Team</strong>
