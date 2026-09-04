@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="./assets/Teaser.webp" width="100%" alt="Teaser security banner" />
-</p>
-
-<p align="center">
   I build practical security knowledge across detection, investigation, networking, and ethical security testing.
 </p>
 
