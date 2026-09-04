@@ -3,10 +3,6 @@
   Published GitHub profile for @serjoose.
 -->
 
-<p align="center">
-  <img src="./assets/cyber-profile-logo.svg" width="104" alt="Minimal cybersecurity shield logo" />
-</p>
-
 <h1 align="center">Welcome to Serjoose's GitHub Page</h1>
 
 <p align="center">
