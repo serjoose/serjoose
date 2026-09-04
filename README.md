@@ -80,7 +80,3 @@ I am a cybersecurity-focused learner and builder with hands-on interest in both 
 </a>
 
 Open to collaboration on responsible security tooling, practical labs, and security-focused web projects.
-
-<p align="center">
-  <sub>Security is strongest when curiosity is paired with responsibility.</sub>
-</p>
