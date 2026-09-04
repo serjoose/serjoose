@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/cyber-profile-banner.svg" width="100%" alt="Abstract cyber-defense network illustration" />
+  <img src="./assets/Teaser.webp" width="100%" alt="Teaser security banner" />
 </p>
 
 <p align="center">
