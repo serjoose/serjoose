@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract cybersecurity network banner</title>
+  <desc id="desc">Minimal dark blue background with shield, circuits and network nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="80" y1="20" x2="1510" y2="530" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/><stop offset="0.5" stop-color="#0b1e35"/><stop offset="1" stop-color="#07111f"/>
+    </linearGradient>
+    <radialGradient id="cyan" cx="0" cy="0" r="1" gradientTransform="translate(1230 142) rotate(120) scale(414 548)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22d3ee" stop-opacity=".22"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shield" x1="700" y1="120" x2="900" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1600" height="520" rx="28" fill="url(#bg)"/>
+  <rect width="1600" height="520" rx="28" fill="url(#cyan)"/>
+  <g opacity=".42" fill="none" stroke="#38bdf8" stroke-width="2">
+    <path d="M0 116h274l66 66h238M0 394h224l86-86h304M1600 98h-210l-92 92H1025M1600 401h-228l-71-71h-250"/>
+    <path d="M116 0v126m110-126v84M1420 520V400m-117 120v-85"/>
+  </g>
+  <g fill="#67e8f9" filter="url(#glow)">
+    <circle cx="274" cy="116" r="6"/><circle cx="340" cy="182" r="6"/><circle cx="224" cy="394" r="6"/><circle cx="310" cy="308" r="6"/>
+    <circle cx="1390" cy="98" r="6"/><circle cx="1298" cy="190" r="6"/><circle cx="1372" cy="401" r="6"/><circle cx="1301" cy="330" r="6"/>
+  </g>
+  <g transform="translate(700 70)">
+    <path d="M100 24 210 67v86c0 77-45 126-110 158C35 279-10 230-10 153V67L100 24Z" fill="#0b1e35" stroke="url(#shield)" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M63 153h25v-28h24v28h25v24h-25v25H88v-25H63z" fill="url(#shield)" filter="url(#glow)"/>
+    <circle cx="100" cy="88" r="7" fill="#fbbf24"/><circle cx="100" cy="236" r="7" fill="#fbbf24"/>
+    <path d="M100 95v30m0 77v27M63 165H35m130 0h-28" stroke="#67e8f9" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <text x="800" y="430" font-size="24" letter-spacing="7">SECURITY · INTELLIGENCE · RESILIENCE</text>
+  </g>
+  <rect x="1" y="1" width="1598" height="518" rx="27" fill="none" stroke="#334155" stroke-width="2"/>
+</svg>
