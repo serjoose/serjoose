@@ -23,10 +23,10 @@
 
 I am a cybersecurity-focused learner and builder with hands-on interest in both defensive and offensive security. My work spans SOC analysis, networking, OSINT and CSINT research, web development, and authorized security testing.
 
-- 🔎 Investigating alerts, networks, and open-source intelligence
-- 🛡️ Strengthening defensive security through a blue-team mindset
-- 🎯 Developing offensive-security skills in authorized lab environments
-- 🧩 Building web projects and security tooling with Python, JavaScript, and PowerShell
+- Investigating alerts, networks, and open-source intelligence
+- Strengthening defensive security through a blue-team mindset
+- Developing offensive-security skills in authorized lab environments
+- Building web projects and security tooling with Python, JavaScript, and PowerShell
 
 ## Core capabilities
 
